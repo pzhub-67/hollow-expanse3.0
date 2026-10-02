@@ -11,8 +11,9 @@ archivesBaseName = 'hollow_expanse'
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
 minecraft {
-    mappings channel: 'parchment', version: '2024.11.10-1.21.1'
-    
+    mappings channel: 'official', version: '1.21.1'
+}
+
     runs {
         client {
             workingDirectory project.file('run')
