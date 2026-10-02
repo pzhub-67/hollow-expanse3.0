@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "hollow_expanse:tether_hook"
+    },
+    "title": {
+      "translate": "advancements.hollow_expanse.tether_master.title"
+    },
+    "description": {
+      "translate": "advancements.hollow_expanse.tether_master.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hollow_expanse:root"
+}

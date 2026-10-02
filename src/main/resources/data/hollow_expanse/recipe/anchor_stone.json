@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "VOV",
+    "OEO",
+    "VOV"
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:anchor_stone",
+    "count": 2
+  }
+}

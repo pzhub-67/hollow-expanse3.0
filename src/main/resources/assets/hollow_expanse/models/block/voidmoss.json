@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "hollow_expanse:block/voidmoss_top",
+    "side": "hollow_expanse:block/voidmoss_side",
+    "bottom": "hollow_expanse:block/hollow_soil"
+  }
+}

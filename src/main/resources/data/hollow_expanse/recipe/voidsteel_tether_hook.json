@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "hollow_expanse:tether_hook"
+    },
+    {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    {
+      "item": "hollow_expanse:voidsteel_ingot"
+    }
+  ],
+  "result": {
+    "id": "hollow_expanse:voidsteel_tether_hook",
+    "count": 1
+  }
+}

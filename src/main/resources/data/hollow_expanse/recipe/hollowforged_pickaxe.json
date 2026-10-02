@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "hollow_expanse:wardens_core"
+  },
+  "base": {
+    "item": "hollow_expanse:voidsteel_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "hollow_expanse:hollowforged_pickaxe",
+    "count": 1
+  }
+}

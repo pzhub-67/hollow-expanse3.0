@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "hollow_expanse:voidsteel_ore"
+  },
+  "result": {
+    "id": "hollow_expanse:voidsteel_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

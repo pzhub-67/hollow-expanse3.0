@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "hollow_expanse:block/hollow_soil"
+  }
+}

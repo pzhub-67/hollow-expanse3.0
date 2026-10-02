@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VOV",
+    "ONO",
+    "VOV"
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:hollow_sigil",
+    "count": 1
+  }
+}

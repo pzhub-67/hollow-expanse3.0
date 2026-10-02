@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "VVV",
+    "V V",
+    "V V"
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:voidsteel_leggings",
+    "count": 1
+  }
+}

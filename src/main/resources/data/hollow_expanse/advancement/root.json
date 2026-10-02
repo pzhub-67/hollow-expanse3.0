@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "hollow_expanse:void_ignition_core"
+    },
+    "title": {
+      "translate": "advancements.hollow_expanse.root.title"
+    },
+    "description": {
+      "translate": "advancements.hollow_expanse.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "entered": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "hollow_expanse:hollow_expanse"
+      }
+    }
+  }
+}

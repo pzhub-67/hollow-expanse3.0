@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 105,
+      "to_y": 125,
+      "from_value": 1.0,
+      "to_value": -1.0
+    },
+    "argument2": {
+      "type": "minecraft:mul",
+      "argument1": 1.0,
+      "argument2": "hollow_expanse:island_top_noise"
+    }
+  },
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": 0.6,
+    "argument2": "hollow_expanse:underlayer_t1_mask"
+  }
+}

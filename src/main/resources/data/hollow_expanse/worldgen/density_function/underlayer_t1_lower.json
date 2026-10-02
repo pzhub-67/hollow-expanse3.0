@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:mul",
+      "argument1": 2.3,
+      "argument2": "hollow_expanse:underlayer_t1_mask"
+    },
+    "argument2": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 37,
+      "to_y": 113,
+      "from_value": -2.6,
+      "to_value": -0.35
+    }
+  },
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": 0.6,
+    "argument2": {
+      "type": "minecraft:noise",
+      "noise": "hollow_expanse:island_detail",
+      "xz_scale": 1.0,
+      "y_scale": 0.6
+    }
+  }
+}

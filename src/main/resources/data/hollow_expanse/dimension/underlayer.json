@@ -1,0 +1,11 @@
+{
+  "type": "hollow_expanse:underlayer",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "hollow_expanse:underlayer",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "hollow_expanse:underlayer"
+    }
+  }
+}

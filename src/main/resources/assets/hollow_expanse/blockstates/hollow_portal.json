@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hollow_expanse:block/hollow_portal_x"
+    },
+    "axis=z": {
+      "model": "hollow_expanse:block/hollow_portal_z"
+    }
+  }
+}

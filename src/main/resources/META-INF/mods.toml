@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="hollow_expanse"
+version="${mod_version}"
+displayName="The Hollow Expanse"
+logoFile="logo.png"
+authors="${mod_authors}"
+description='''
+A void dimension of floating islands bathed in soft, living light.
+Grapple between islands with the Tether Hook, mine glowing Voidsteel from the
+undersides of the sky, survive the Fading, and face the Hollow Warden.
+'''
+
+[[dependencies.hollow_expanse]]
+    modId="forge"
+    mandatory=true
+    versionRange="[52,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.hollow_expanse]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"

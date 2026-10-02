@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "VV",
+    " S",
+    " S"
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:voidsteel_hoe",
+    "count": 1
+  }
+}

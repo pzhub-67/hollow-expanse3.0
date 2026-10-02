@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:swords",
+    "#minecraft:axes",
+    "hollow_expanse:voidsteel_sword",
+    "hollow_expanse:voidsteel_axe",
+    "hollow_expanse:hollowforged_sword",
+    "hollow_expanse:void_mace"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.hollow_expanse.bottomless.title"
+    },
+    "description": {
+      "translate": "advancements.hollow_expanse.bottomless.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fall": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hollow_expanse:root"
+}

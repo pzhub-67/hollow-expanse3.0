@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "hollow_expanse:raw_voidsteel"
+  },
+  "result": {
+    "id": "hollow_expanse:voidsteel_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 100
+}

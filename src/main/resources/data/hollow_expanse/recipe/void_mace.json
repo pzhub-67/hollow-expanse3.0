@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "VCV",
+    "VBV",
+    " B "
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    },
+    "C": {
+      "item": "hollow_expanse:wardens_core"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:void_mace",
+    "count": 1
+  }
+}

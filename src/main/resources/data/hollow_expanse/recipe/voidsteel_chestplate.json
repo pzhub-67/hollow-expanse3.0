@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "V V",
+    "VVV",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "item": "hollow_expanse:voidsteel_ingot"
+    }
+  },
+  "result": {
+    "id": "hollow_expanse:voidsteel_chestplate",
+    "count": 1
+  }
+}
