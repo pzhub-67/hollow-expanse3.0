@@ -1,10 +1,15 @@
 pluginManagement {
     repositories {
+        maven {
+            name = 'ParchmentMC'
+            url = 'https://parchmentmc.org'
+        }
+        maven {
+            name = 'Forge'
+            url = 'https://minecraftforge.net'
+        }
         gradlePluginPortal()
-        maven { name = 'MinecraftForge'; url = 'https://maven.minecraftforge.net/' }
     }
 }
-plugins {
-    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.7.0'
-}
-rootProject.name = 'hollow_expanse'
+
+rootProject.name = 'hollow_expanse_mod'
