@@ -57,5 +57,5 @@ jar {
 }
 
 tasks.named('jar', Jar).configure {
-    classifier = null
+    archiveClassifier = null
 }
